@@ -26,25 +26,3 @@ def find_the_cheese(array)
     cheese_types.include?(array)
   end
 end
-
-# snacks = ["crackers", "gouda", "thyme"]
-# soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
-# ingredients = ["garlic", "rosemary", "bread"]
-#   cheese_array = []
-#   while i < array.length
-#     cheese_array << yield(array[i])
-#     i += 1
-#   end
-#   cheese_array
-# end
-#
-#   cheese_array << if array.include?(cheese_types)
-#
-#
-#     array.collect do |cheese|
-#       if array.include?(cheese_types)
-
-
-#   array.include?(cheese_types)
-#   cheese_types = ["cheddar", "gouda", "camembert"]
-# end
